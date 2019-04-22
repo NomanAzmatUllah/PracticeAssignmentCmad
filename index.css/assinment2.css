@@ -1,0 +1,40 @@
+
+body{
+    background: url("../images/blue-clouds-day-fluffy-53594.jpeg");
+    height: 100%;
+    width:100%;
+}
+h3{
+    margin-left: 583px;
+}
+.btn{
+    color: white;
+    background-color: black;
+    font-family: Adobe Caslon Pro;
+    font-size: 10px;
+
+}
+.btn .btn-block{
+    color: white;
+    background-color: black;
+}
+.container{
+    margin-left: 358px;
+    margin-top: 101px;
+}
+
+.col{
+	  
+	  
+    margin:0 auto;
+    padding:80px;
+   float:none;}
+   
+  
+
+       .input-group{
+           width: 441px;
+       }
+       .img{
+           height: 75px;
+       }

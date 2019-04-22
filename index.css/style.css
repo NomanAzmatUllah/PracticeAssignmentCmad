@@ -1,0 +1,49 @@
+.button{
+    border-radius: 21px;
+    border: 1px solid blue;
+    background-color: white;
+    width: 69px;
+}
+.heading{
+
+margin-top: 91px;
+}
+.bbuttons{
+
+    margin-left: 1117px;
+    margin-top: -59px;
+}
+.red{
+    color: white;
+    background-color: red;
+    border-radius: 22px;
+    height: 31px;
+}
+.orange{
+    color: white;
+    background-color: orange;
+    border-radius: 20px;
+    height: 31px;
+
+}
+.yellow{
+    color: white;
+    background-color: yellow;
+    border-radius: 20px;
+    height: 31px;
+}
+.purple{
+    color: white;
+    background-color: purple;
+    border-radius:20px;
+    height:31px;
+}
+.green{
+    color: white;
+    background-color:rgb(64, 238, 64);
+    border-radius: 20px;
+    height:31px;
+}
+.caret{
+    
+}
